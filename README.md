@@ -1,2 +1,2 @@
 # Lab3
-Laboratorium no. 3 grupa 1.
+Laboratorium nr 3 grupa 1.
